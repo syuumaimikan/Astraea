@@ -1,1 +1,3 @@
 # Astraea
+
+need DXlib
